@@ -1,8 +1,8 @@
 # Sandra Modas
 
 ## Integrantes da dupla
-- Eduardo Gonçalves
-- José Matheus
+- Eduardo Gonçalves Ferreira
+- José Matheus de Sousa Bandeira
 
 ## Descrição do caso escolhido
 Site desenvolvido para a Sandra Modas, uma banca de moda feminina localizada na Feira Central de Ceilândia, Brasília-DF, fundada por Marly Sandra.
@@ -43,5 +43,5 @@ Utilizamos o componente de botão do Bootstrap para criar o botão de contato vi
 - Link do site publicado: https://eduardogoncalvesferreira468-star.github.io/Sandra_modas/
 
 ## Contribuição dos integrantes
-- **Eduardo Gonçalves:** estruturação do HTML, organização dos arquivos, estilização com CSS e implementação do carrossel em JavaScript
-- **José Matheus:** levantamento do conteúdo da loja, definição da paleta de cores, testes de responsividade e elaboração da documentação
+- **Eduardo Gonçalves Ferreira:** estruturação do HTML, organização dos arquivos, estilização com CSS e implementação do carrossel em JavaScript
+- **José Matheus de Sousa Bandeira:** levantamento do conteúdo da loja, definição da paleta de cores, testes de responsividade e elaboração da documentação
