@@ -39,7 +39,7 @@ Utilizamos o componente de botão do Bootstrap para criar o botão de contato vi
 - Navegação básica por teclado testada
 
 ## Links
-- Link do repositório: 
+- Link do repositório: https://github.com/eduardogoncalvesferreira468-star/Sandra_modas
 - Link do site publicado: 
 
 ## Contribuição dos integrantes
