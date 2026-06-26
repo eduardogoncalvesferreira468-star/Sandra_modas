@@ -39,8 +39,8 @@ Utilizamos o componente de botão do Bootstrap para criar o botão de contato vi
 - Navegação básica por teclado testada
 
 ## Links
-- Link do repositório: (preencher após publicar)
-- Link do site publicado: (preencher após publicar)
+- Link do repositório: 
+- Link do site publicado: 
 
 ## Contribuição dos integrantes
 - **Eduardo Gonçalves:** estruturação do HTML, organização dos arquivos, estilização com CSS e implementação do carrossel em JavaScript
