@@ -40,7 +40,7 @@ Utilizamos o componente de botão do Bootstrap para criar o botão de contato vi
 
 ## Links
 - Link do repositório: https://github.com/eduardogoncalvesferreira468-star/Sandra_modas
-- Link do site publicado: 
+- Link do site publicado: https://eduardogoncalvesferreira468-star.github.io/Sandra_modas/
 
 ## Contribuição dos integrantes
 - **Eduardo Gonçalves:** estruturação do HTML, organização dos arquivos, estilização com CSS e implementação do carrossel em JavaScript
